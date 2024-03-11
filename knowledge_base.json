@@ -1,0 +1,58 @@
+{
+    "questions": [
+        {
+            "question": "Hi",
+            "answer": "Hey there! Glad you contacted. Feel free to ask your queries."
+        },     
+        {
+            "question": "Hello",
+            "answer": "Hey there! Glad you contacted. Feel free to ask your queries."
+        },
+        {
+            "question": "How are you?",
+            "answer": "I am good :) How can I assist you today?"
+        },
+        {
+            "question": "What is the purpose of the chatbot?",
+            "answer": "The chatbot is designed to assist users with inquiries related to the Computer Science and Engineering department at Graphic Era Hill University."
+        },
+        {
+            "question": "Where can I find the time table?",
+            "answer": "Visit the department website: <a href='https://btechcsegehu.in/' target='_blank'>https://btechcsegehu.in/</a>."
+        },
+        {
+            "question": "How can I check my result?",
+            "answer": "Step 1: Log in to the ERP: <a href='https://student.gehu.ac.in' target='_blank'>https://student.gehu.ac.in</a><br>Step 2: Click on the Exam button.<br>Step 3: Click on Result button.<br>Step 4: Select the semester.<br>Step 5: Now you can download the PDF.<br>Thanks for visiting!"
+        },
+
+        {
+            "question": "How can I log in to ERP?",
+            "answer": "You can log in to the ERP system by visiting <a href='https://student.gehu.ac.in' target='_blank'>https://student.gehu.ac.in</a>."
+        },
+        {
+            "question": "Tell me about the department website.",
+            "answer": "The department website can be found at <a href='https://btechcsegehu.in/' target='_blank'>https://btechcsegehu.in/</a>."
+        },
+        {
+            "question": "How to contact the department?",
+            "answer": "You can contact the department by reaching out to the provided contact information on the official website or through designated communication channels."
+        },
+        {
+            "question": "Thank you",
+            "answer": "Your welcome :) and have a nice day!"
+        },
+        {
+            "question": "Goodbye",
+            "answer": "Bye!! Have a nice day :)"
+        },
+        {
+            "question": "How to deposit my fee online?",
+            "answer": "Step 1: Log in to the ERP: <a href='https://student.gehu.ac.in' target='_blank'>https://student.gehu.ac.in</a><br>Step 2: Click on the fee button.<br>Step 3: Click on Fee Submission button.<br>Step 4: Select the payment mode and gateway and enter the captcha.<br>Step 5: Proceed to make the transaction successfully according to the mode of payment.<br>Thanks for visiting!"
+        }
+    ],
+    "dataset": {
+        "hi": "Hello how may I help you",
+        "hello": "Glad you reached out! Feel free to ask your queries"
+    }
+}
+
